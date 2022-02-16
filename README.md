@@ -62,7 +62,7 @@ When you are done let us know the url of the repo.
 
 # Solution overview
 
-This is a solution for sorting out a list of names by last name. .Net core framework and c# was used for implementing the project. And also used SOLID principles and fluent interfaces for compose the code quality.
+This is a solution for sorting out a list of names by last name. .Net 5.0 framework and c# was used for implementing the project. And also used SOLID principles and fluent interfaces for compose the code quality.
 
 # Build to Run
 In the command prompt, first set the directory to your project folder and then type: 
